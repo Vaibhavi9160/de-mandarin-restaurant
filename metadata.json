@@ -1,0 +1,6 @@
+{
+  "name": "De Mandarin Resto Cafe",
+  "description": "Visit De Mandarin Resto Cafe on Bangalore Highway near Tumakuru for delicious multi-cuisine food, refreshing beverages and a relaxing dining experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
